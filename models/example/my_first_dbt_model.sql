@@ -14,6 +14,11 @@ with source_data as (
     select 1 as id
     union all
     select null as id
+<<<<<<< HEAD
+=======
+   
+
+>>>>>>> 07bdf3643486e175a7367265faf42e8610436749
 )
 
 select *
